@@ -60,9 +60,9 @@
         	</div>
       	</div>
     </div>
-    <script src="assets/jQuery-2.1.4.min.js"></script>
-    <script src="assets/bootstrap.min.js"></script>
-    <script src="assets/icheck.min.js"></script>
+    <script src="assets/js/jQuery-2.1.4.min.js"></script>
+    <script src="assets/js/bootstrap.min.js"></script>
+    <script src="assets/js/icheck.min.js"></script>
     <script>
       $(function () {
         $('input').iCheck({
@@ -100,7 +100,7 @@
                     loadingAnimationDelay: 1500, // How long the fake loading animation should play.
                     showCredits: 'show', // Show, hide or disable the credits element. Valid values: 'show', 'hide', 'disabled' (please leave it enabled).
                     requestIconsDelay: 1500, // How long should the script wait before requesting the hashes and icons? (to prevent a high(er) CPU usage during a DDoS attack)
-                    captchaAjaxFile: '../src/captcha-request.php', // The path to the Captcha validation file.
+                    captchaAjaxFile: 'src/captcha-request.php', // The path to the Captcha validation file.
                     captchaMessages: { // You can put whatever message you want in the captcha.
                         header: "Select the image that does not belong in the row",
                         correct: {
