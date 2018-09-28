@@ -50,7 +50,7 @@
             <div id="sidebar-menu" class="main_menu_side hidden-print main_menu">
               <div class="menu_section">
                 <ul class="nav side-menu">
-                  <li><a><i class="fa fa-dashboard"></i> Dashboard </a>
+                  <li><a href="master.php"><i class="fa fa-dashboard"></i> Dashboard </a>
                   </li>
                   <li><a><i class="fa fa-user"></i> Employee Data <span class="fa fa-chevron-down"></span></a>
                     <ul class="nav child_menu">
@@ -136,10 +136,7 @@
                 </li>
 
                 <li role="presentation" class="dropdown">
-                  <a href="javascript:;" class="dropdown-toggle info-number" data-toggle="dropdown" aria-expanded="false">
-                    <i class="fa fa-envelope-o"></i>
-                    <span class="badge bg-green">6</span>
-                  </a>
+                  
                   <ul id="menu1" class="dropdown-menu list-unstyled msg_list" role="menu">
                     <li>
                       <a>

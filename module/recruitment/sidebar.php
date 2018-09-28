@@ -50,7 +50,7 @@
             <div id="sidebar-menu" class="main_menu_side hidden-print main_menu">
               <div class="menu_section">
                 <ul class="nav side-menu">
-                  <li><a><i class="fa fa-dashboard"></i> Dashboard </a>
+                  <li><a href="recruit.php"><i class="fa fa-dashboard"></i> Dashboard </a>
                   </li>
                   <li><a href="applicant.php"><i class="fa fa-user"></i> Applicant Tracking </a>
                   </li>
