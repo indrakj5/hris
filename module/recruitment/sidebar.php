@@ -52,9 +52,9 @@
                 <ul class="nav side-menu">
                   <li><a href="recruit.php"><i class="fa fa-dashboard"></i> Dashboard </a>
                   </li>
-                  <li><a href="applicant.php"><i class="fa fa-user"></i> Applicant Tracking </a>
+                  <li><a href="applicant.php"><i class="fa fa-user"></i> Manajemen Perekrutan </a>
                   </li>
-                  <li><a href="job.php"><i class="fa fa-briefcase"></i> Post A Job </a>
+                  <li><a href="job.php"><i class="fa fa-briefcase"></i> Buka Lowongan Pekerjaan </a>
                   </li>
                 </ul>
               </div>
